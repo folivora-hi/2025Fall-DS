@@ -18,64 +18,22 @@ Course: http://soslab.nccu.edu.tw/Courses.html
 
 Course Link: https://youtube.com/playlist?list=PL8mvlT9g-6qf9Oiy1MOFnV1a-L6MNWUEX&si=9ZF3laRa15VxwuIg
 
+# TA Course Schedule
 
-
-# :link: Install Instruction #
-
-1. Install [JRE](https://www.java.com/en/download/)
-
-2. Install [JDK](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
-
-3. Set Environment Variables
-
-4. Install [Eclipse IDE](http://www.eclipse.org/downloads/)
-
-    > Choose Eclipse IDE for Java Developers or Eclipse IDE for Enterprise Java and Web Developers(EE)
-
-    > or download the Eclipse IDE for Enterprise Java and Web Developers via [Eclipse packages](https://www.eclipse.org/downloads/packages/)
-
-5. Install [Git](https://git-scm.com/)
-
-    - https://backlog.com/git-tutorial/tw/
-
-    - https://miahsuwork.medium.com/%E7%AC%AC%E4%BA%8C%E9%80%B1-git-%E6%9C%AC%E5%9C%B0%E7%AB%AF%E8%88%87%E9%81%A0%E7%AB%AF%E6%93%8D%E4%BD%9C-github-78eec4537179
-
-6. Download [Tomcat](https://tomcat.apache.org/)(not neccesary)
-
-7. Download [jsoup](https://jsoup.org/download)
-
-# :file_folder: Download HW #
-
-In your computer's folder, use the command below :
-
-### First time
-
-`cd (your folder path)`
-
-`git init`
-
-`git remote add origin https://github.com/pen9rum/2024fallDS-HW.git`
-
-`git pull origin main`
-
-### Next time
-
-`cd (your folder path)`
-
-`git pull origin main`
-
-then you can refresh the data weekly to download HW from GitHub.
-
-### If it has a conflict during the download HW
-
-You can try
-
-`cd (your folder path)`
-
-`git add .`
-
-`git commit -m "write some message"`
-
-`git merge main`
-
-then pull again.
+| 週次 | 日期        | 主題                | 作業 / 考試           |
+|------|-------------|---------------------|-----------------------|
+| 2 | 09/08       | 助教課介紹、環境設置   | HW1 發布              |
+| 3 | 09/15       | 作業二 | HW1 繳交、HW2 發布   |
+| 4 | 09/22       |  | |
+| 5 | 09/29       | 放假 | |
+| 6 | 10/06       | 放假|       |
+| 7 | 10/13       |               | |
+| 8 | 10/20       | | |
+| 9 | 10/27       |     |                |
+| 10 | 11/03       | |                 |
+| 11 | 11/10       | |                |
+| 12 | 11/17       | |               |
+| 13 | 11/24       | |              |
+| 14 | 12/01       | | |
+| 15 | 12/08       | | |
+| 16 | 12/15       | | |
