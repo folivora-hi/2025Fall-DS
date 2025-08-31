@@ -30,15 +30,11 @@ In your computer's folder, use the command below :
 
 `cd (your folder path)`
 
-`git init`
+`git clone https://github.com/folivora-hi/2025Fall-DS.git`
 
-`git remote add origin https://github.com/folivora-hi/2025Fall-DS.git`
-
-`git pull origin main`
+`cd 2025Fall-DS`
 
 ### Next time
-
-`cd (your folder path)`
 
 (optional) `git fetch --all`
 
