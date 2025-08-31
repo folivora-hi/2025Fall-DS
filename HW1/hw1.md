@@ -28,6 +28,6 @@ Please enter your weight(kg) and height(cm): 55 172
 You are under shape. BMI: 18.591130340724717
 ```
 
-Upload your code using Moodle (no direct copy accepted) 
-First Submission: 09/15
-Deadline: 09/22
+## Upload your code using Moodle (no direct copy accepted) 
+- First Submission: 09/15
+- Deadline: 09/22
