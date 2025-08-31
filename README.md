@@ -2,17 +2,17 @@
 
 **Announcements**:
 
-[Notice] 繳交作業時，請各位遵循HW Be Careful所寫規則，作業問題請寄信給助教。
+[Notice] Please follow the HW Be Careful rules when submitting assignments. For assignment-related questions, contact the TAs via email.
 
 ---
 # Weekly Lab #
 
 **TAs**:  
-- 劉亭妤 113356048@g.nccu.edu.tw
+- 劉亭妤 Joanne 113356048@g.nccu.edu.tw
 - 林子安 
 
 **Lab times**: Monday 12:10-2:00pm  
-**Lab location**: 逸仙樓 5F MIS PC Classroom(0502)
+**Lab location**: Yi-Xian Building 5F MIS PC Classroom(0502)
 
 Course: http://soslab.nccu.edu.tw/Courses.html
 
