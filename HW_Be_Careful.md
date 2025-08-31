@@ -23,3 +23,38 @@ The deadline for homework submission will be Thursday. Grades will be announced 
   - Bonus2 : {what you do}
     Location : {which file} {which line}
 
+# :file_folder: Download HW #
+
+In your computer's folder, use the command below :
+
+### First time
+
+`cd (your folder path)`
+
+`git init`
+
+`git remote add origin https://github.com/pen9rum/2024fallDS-HW.git`
+
+`git pull origin main`
+
+### Next time
+
+`cd (your folder path)`
+
+`git pull origin main`
+
+then you can refresh the data weekly to download HW from GitHub.
+
+### If it has a conflict during the download HW
+
+You can try
+
+`cd (your folder path)`
+
+`git add .`
+
+`git commit -m "write some message"`
+
+`git merge main`
+
+then pull again.
