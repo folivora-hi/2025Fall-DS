@@ -29,5 +29,5 @@ You are under shape. BMI: 18.591130340724717
 ```
 
 ## Upload your code using Moodle (no direct copy accepted) 
-- First Submission: 09/14 23:59
-- Deadline: 09/22 23:59
+- **First Submission**: 09/14(Sun.) 23:59
+- **Deadline**: 09/22(Mon.) 23:59
