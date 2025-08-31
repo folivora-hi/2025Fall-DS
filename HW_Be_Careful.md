@@ -2,14 +2,13 @@
 
 ## Rule
 - The folder name should be HW{num}_{student_id}.It must be compressed into a zip file (e.g., HW4_113356048.zip).
-- When submitting, include all code files.The file paths must be placed in the src folder (as shown in the right image).
+- When submitting, include all .java files.
 - A Main.java file must be included.
-- The output format must match the example exactly.
+- **The output format must match the example exactly**.
+- Any format error 
 
 ## Deadline
-The deadline for homework submission will be Thursday. Grades will be announced on Friday, and the late submission deadline is the following Thursday. Please make sure to complete your homework and submit it accordingly.
-
-<img width="1206" height="167" alt="截圖 2025-08-30 晚上8 46 50" src="https://github.com/user-attachments/assets/98978f9a-a42d-4f36-9da5-1b3a88dbdfcd" />
+Each assignment allows two submission attempts. Questions and testing are permitted during TA sessions that fall within the submission period. After the second submission deadline, no additional requests will be processed.
 
 
 ## Bonus
@@ -33,13 +32,15 @@ In your computer's folder, use the command below :
 
 `git init`
 
-`git remote add origin https://github.com/pen9rum/2024fallDS-HW.git`
+`git remote add origin https://github.com/folivora-hi/2025Fall-DS.git`
 
 `git pull origin main`
 
 ### Next time
 
 `cd (your folder path)`
+
+(optional) `git fetch --all`
 
 `git pull origin main`
 
