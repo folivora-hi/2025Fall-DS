@@ -9,7 +9,7 @@
 
 **TAs**:  
 - 劉亭妤 Joanne 113356048@g.nccu.edu.tw
-- 林子安 
+- 林子安 110306059@g.nccu.edu.tw
 
 **Lab times**: Monday 12:10-2:00pm  
 **Lab location**: Yi-Xian Building 5F MIS PC Classroom(0502)
