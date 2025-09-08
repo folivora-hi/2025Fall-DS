@@ -46,10 +46,11 @@
 ## IDE - VScode
 
 1. Download [VScode](https://code.visualstudio.com/)
-    windows configure:
+
+   windows configure:
      ![截圖 2025-08-31 下午4.22.53](https://hackmd.io/_uploads/Bk5_8YW5el.jpg)
 
-2. Add Extension
+3. Add Extension
 
     ![截圖 2025-08-31 下午4.26.14](https://hackmd.io/_uploads/HkiLvYbcex.png)
 
