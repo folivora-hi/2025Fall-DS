@@ -5,7 +5,7 @@
 - When submitting, include all .java files.
 - A Main.java file must be included.
 - **The output format must match the example exactly**.
-- Any format error 
+- When there is a formatting error, there is no room for argument.
 
 ## Deadline
 Each assignment allows two submission attempts. Questions and testing are permitted during TA sessions that fall within the submission period. After the second submission deadline, no additional requests will be processed.
