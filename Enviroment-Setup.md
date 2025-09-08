@@ -48,6 +48,7 @@
 1. Download [VScode](https://code.visualstudio.com/)
 
    windows configure:
+   
      ![截圖 2025-08-31 下午4.22.53](https://hackmd.io/_uploads/Bk5_8YW5el.jpg)
 
 3. Add Extension
