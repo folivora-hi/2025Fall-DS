@@ -6,10 +6,12 @@
 
 1. Install [JDK](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
 2. Set Environment Variables 
-    ![3](https://hackmd.io/_uploads/rkVTCd-cee.jpg)
-    ![2](https://hackmd.io/_uploads/BkEaROZcxe.jpg)
-    ![1](https://hackmd.io/_uploads/r1NpRuWclx.jpg)
-3. 確認安裝成功
+    
+   ![1](https://hackmd.io/_uploads/r1NpRuWclx.jpg)
+   ![2](https://hackmd.io/_uploads/BkEaROZcxe.jpg)
+   ![3](https://hackmd.io/_uploads/rkVTCd-cee.jpg)
+    
+4. 確認安裝成功
     ```
     java -version
     javac -version
@@ -37,6 +39,7 @@
 3. 確認安裝成功
     ```
     java -version
+    javac -version
     ```
 
 
@@ -50,6 +53,7 @@
 
     ![截圖 2025-08-31 下午4.26.14](https://hackmd.io/_uploads/HkiLvYbcex.png)
 
+    
 
 ## Git
 
@@ -63,8 +67,10 @@ brew install git
 ```
 
 
+## Supplementary 
 
-
+- [Github Copilot](https://code.visualstudio.com/docs/copilot/overview)
+- [Github Education](https://william8510.pixnet.net/blog/post/576720564)
 
 
 
