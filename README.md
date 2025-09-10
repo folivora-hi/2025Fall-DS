@@ -4,6 +4,8 @@
 
 [Notice] Please follow the HW Be Careful rules when submitting assignments. For assignment-related questions, contact the TAs via email.
 
+[Video] TA Class - [Enviroment Setup & HW Rule](https://youtu.be/zOhEr9DRE-E)
+
 ---
 # Weekly Lab #
 
