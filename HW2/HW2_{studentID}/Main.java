@@ -21,7 +21,7 @@ public class Main {
 						case 1: //capital
 							// 1. get user input 
 							
-							Double crate = 1.026;
+							Double crate = 1.02;
 							GeomProgression<Double> Capital = new GeomProgression<Double>(initial, crate);
 							Capital.printProgression();
 							break;

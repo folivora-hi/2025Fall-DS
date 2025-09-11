@@ -23,7 +23,7 @@ Please type (1)type and (2)number of initial people or capital and (3)years: 0 2
 
 ```
 Please type (1)type and (2)number of initial people or capital and (3)years: 1 50 5
-50.0 51.300000000000004 52.63380000000001 54.002278800000006 55.40633804880001
+50.0 51.0 52.02 53.0604 54.121608 55.204040160000005
 ```
 
 ## Upload your code using Moodle (no direct copy accepted) 
