@@ -2,7 +2,7 @@
 
 **Announcements**:
 
-[Notice] [Group Formation Announcement] (https://docs.google.com/spreadsheets/d/19Y58vKKpy-VnXl8WrANYjOnOVpJD8oulUAhAseRR-ws/edit?gid=0#gid=0)
+[Notice] [Group Formation Announcement](https://docs.google.com/spreadsheets/d/19Y58vKKpy-VnXl8WrANYjOnOVpJD8oulUAhAseRR-ws/edit?gid=0#gid=0)
 
 [Notice] Please follow the HW Be Careful rules when submitting assignments. For assignment-related questions, contact the TAs via email.
 
