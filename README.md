@@ -27,11 +27,11 @@ Course Link: https://youtube.com/playlist?list=PL8mvlT9g-6qf9Oiy1MOFnV1a-L6MNWUE
 | 週次 | 日期        | 主題                |
 |------|-------------|---------------------|
 | 2 | 09/08       | Enviroment Setup, HW Rule Announcement, HW1|
-| 3 | 09/15       | HW2|
-| 4 | 09/22       |  |
+| 3 | 09/15       | HW2 |
+| 4 | 09/22       | HW3, GitHub collaboration workflow |
 | 5 | 09/29       | **No Class** |
 | 6 | 10/06       | **No Class** |
-| 7 | 10/13       |               |
+| 7 | 10/13       |  |
 | 8 | 10/20       | |
 | 9 | 10/27       |     |
 | 10 | 11/03       | |
