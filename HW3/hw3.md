@@ -6,7 +6,8 @@
 ## Input/ Output Example
 
 ```
-Please type URL and Keyword: http://soslab.nccu.edu.tw/Welcome.html Fang
+Please type URL and Keyword: 
+http://soslab.nccu.edu.tw/Welcome.html Fang
 Fang appears 32 times.
 ```
 
