@@ -1,4 +1,4 @@
-# HW2 - Count A Keyword in a Web Page!
+# HW3 - Count A Keyword in a Web Page!
 - Get a URL and a keyword from user inputs
 - Return how many times the keyword appears in the contents of the URL 
 - Bonus: use Boyer-Moore Algorithm 
