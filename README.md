@@ -31,7 +31,7 @@ Course Link: https://youtube.com/playlist?list=PL8mvlT9g-6qf9Oiy1MOFnV1a-L6MNWUE
 | 2 | 09/08       | Enviroment Setup, HW Rule Announcement, HW1|
 | 3 | 09/15       | HW2 |
 | 4 | 09/22       | HW3, GitHub collaboration workflow |
-| 5 | 09/29       | **No Class**, HW4 Video |
+| 5 | 09/29       | **No Class**, BMI on Web(Video) |
 | 6 | 10/06       | **No Class** |
 | 7 | 10/13       |  |
 | 8 | 10/20       | |
