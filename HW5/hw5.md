@@ -25,8 +25,8 @@ False ?xml !DOCTYPE html head link !--[if link ![endif]-- !--[if link ![endif]--
 ```
 
 ## Upload your code using Moodle
-- **First Submission**: 10/05(Sun.) 11:59
-- **Deadline**: 10/13(Mon.) 23:59
+- **First Submission**: 10/12(Sun.) 11:59
+- **Deadline**: 10/20(Mon.) 23:59
 
 
 
