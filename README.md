@@ -34,7 +34,7 @@ Course Link: https://youtube.com/playlist?list=PL8mvlT9g-6qf9Oiy1MOFnV1a-L6MNWUE
 | 5 | 09/29       | **No Class**, BMI on Web(Video) |
 | 6 | 10/06       | **No Class** |
 | 7 | 10/13       |  |
-| 8 | 10/20       | |
+| 8 | 10/20       | Debug with VScode, HW6 |
 | 9 | 10/27       |     |
 | 10 | 11/03       | |
 | 11 | 11/10       | |                |
