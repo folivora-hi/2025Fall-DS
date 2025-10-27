@@ -41,4 +41,4 @@ Course Link: https://youtube.com/playlist?list=PL8mvlT9g-6qf9Oiy1MOFnV1a-L6MNWUE
 | 12 | 11/17       |  No Class, Open for Project Questions |
 | 13 | 11/24       |  No Class, Open for Project Questions |
 | 14 | 12/01       | HW10 |
-| 15 | 12/08       | No Class, Open for Project Questions |
+| 15 | 12/08       | No Class |
