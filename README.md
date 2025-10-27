@@ -35,11 +35,10 @@ Course Link: https://youtube.com/playlist?list=PL8mvlT9g-6qf9Oiy1MOFnV1a-L6MNWUE
 | 6 | 10/06       | **No Class** |
 | 7 | 10/13       |  |
 | 8 | 10/20       | Debug with VScode, HW6 |
-| 9 | 10/27       |     |
-| 10 | 11/03       | |
-| 11 | 11/10       | |                |
-| 12 | 11/17       | |               |
-| 13 | 11/24       | |              |
-| 14 | 12/01       | | |
-| 15 | 12/08       | | |
-| 16 | 12/15       | | |
+| 9 | 10/27       |  HW7   |
+| 10 | 11/03       | HW8 |
+| 11 | 11/10       |  HW9 |
+| 12 | 11/17       |  No Class, Open for Project Questions |
+| 13 | 11/24       |  No Class, Open for Project Questions |
+| 14 | 12/01       | HW10 |
+| 15 | 12/08       | No Class, Open for Project Questions |
