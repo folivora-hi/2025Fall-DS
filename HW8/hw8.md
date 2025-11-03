@@ -4,6 +4,8 @@
 
 ![alt text](<2.png>)
 ![alt text](<1.png>)
+
+請繳交隨意字詞搜尋結果的截圖以及程式碼的公開github連結。
 ---
 
 提示：
@@ -156,7 +158,7 @@ String q = URLEncoder.encode(query, StandardCharsets.UTF_8.name());
         }
     }
 ```
-
+5. SpringBoot  [詳細教學](https://kucw.io/blog/springboot/1/)
 ---
 
 ## Submission
